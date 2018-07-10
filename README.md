@@ -1,1 +1,2 @@
-# hypothesis-test-project
+# Landing Page Hypothesis Test Project
+This project is part of Udacity's Data Science Foundations Nanodegree. In it, I analyze a dataset containing results of an A/B test in order to analyze if a new landing page should be added or not based on conversion rate. For this end, I used the Python libraries NumPy, Pandas and Matplotlib for data wrangling and descriptive statistics, as well as Statsmodel and Sk-learn for predictive statistics (in this case, logistic regression). 
